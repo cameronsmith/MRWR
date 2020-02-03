@@ -3,7 +3,8 @@ This is my repo for working through the udemy course modern React with redux.
 
 [Modern React with Redux](https://www.udemy.com/course/react-redux/)
 
-Index:
+#### Index:
+
 [JSX](https://github.com/uk-casmith/MRWR-JSX)
 
 [Components](https://github.com/uk-casmith/MRWR-Components)
